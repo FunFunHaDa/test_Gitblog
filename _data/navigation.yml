@@ -2,6 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Categories"
+    url: http://127.0.0.1:4000/categories/
+  - title: "Tags"
+    url: http://127.0.0.1:4000/tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
